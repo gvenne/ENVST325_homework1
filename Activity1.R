@@ -42,5 +42,5 @@ Peaks/3.281
 #Homework question 3
 #create new variable to isolate the row with the longest round trip length
 #extract exact row
-HighPeaks[2,]
+LongestRoundTrip <- HighPeaks[2,]
 
